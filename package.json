@@ -1,0 +1,21 @@
+{
+  "name": "11ty-mvp",
+  "version": "1.0.0",
+  "description": "The minimum viable 11ty setup.",
+  "main": ".eleventy.js",
+  "scripts": {
+    "start": "npm run serve",
+    "build": "npx @11ty/eleventy",
+    "serve": "npx @11ty/eleventy --serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbirdsong/11ty-md-demo.git"
+  },
+  "author": "Cory Birdsong <cory@birdsong.dev> (https://birdsong.dev/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cbirdsong/11ty-md-demo/issues"
+  },
+  "homepage": "https://github.com/cbirdsong/11ty-md-demo#readme"
+}
